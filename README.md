@@ -1,20 +1,19 @@
-<h1 align="center">Projeto BusFinder</h1>
+<h1 align="center">Projeto MakeApp</h1>
 
 <p align="center">
   Projeto feito para validação de conhecimentos adquiridos.
 </p>
 
 <p align="center">
-  <img src="github/preview.png" alt="projeto BusFinder">
+  <img src="github/preview.gif" alt="projeto MakeApp">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
+- REACT NATIVE
 
 ## 💻 Projeto
 
-- O Projeto BusFinder, tem como objetivo ajudar os usuários locais da minha cidade, a conseguir saber os trajetos dos transportes publicos e horários.
+- O Projeto MakeApp, foi desenvolvido para validação de conhecimentos adquiridos em sala de aula.
